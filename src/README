@@ -1,0 +1,22 @@
++-----------------------------------------------------------------------------+
+| Nir Turjeman, 039622543, nir.tur@gmail.com                                  |
+| Yaniv Gal, 066165184, yanivgal123@gmail.com 			                      |
++-----------------------------------------------------------------------------+
+
+                          Project 1: switch learning algorithm
+                          ------------------------------------ 
+  
+
+Submitted Files
+---------------
+README - This file.
+BellmanFord.java - this class implements bellman ford algorithm.
+Vert.java - this class used as a data structure for the Bellman ford algorithm.
+MyEntity.java - this class implements the entities in the simulator and learning algorithm.
+Project.java - this contain the main of the project and the call for computST which i have implemented it .
+
+Remarks
+-------
+- i have made a littel change in the main function - when the function computeST returns null nothing happens in the main.
+- the source for the costST is allways entity number 1.
+- remarks add only to the new functions which writen by me (not include MyEntity)
